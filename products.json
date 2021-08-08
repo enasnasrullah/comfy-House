@@ -1,0 +1,141 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "blackout",
+        "price": 65,
+        "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Led touch Mirror ",
+        "price": 120.99,
+        "image": { "fields": { "file": { "url": "./images/product-2.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Table Lamp",
+        "price": 50.69,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Bed Cover - Purple",
+        "price": 22.99,
+        "image": { "fields": { "file": { "url": "./images/product-4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": " Bed - Pink",
+        "price": 388.99,
+        "image": { "fields": { "file": { "url": "./images/product-5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Sofa-Yellow",
+        "price": 232.59,
+        "image": { "fields": { "file": { "url": "./images/product-6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Steel Center Table - Gray & Gold",
+        "price": 145.99,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Turin Living Room Set-Turquoise&Yellow",
+        "price": 633.99,
+        "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "chair",
+        "price": 83.99,
+        "image": { "fields": { "file": { "url": "./images/product-9.jpg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "chair",
+        "price": 73.99,
+        "image": { "fields": { "file": { "url": "./images/product-10.jpg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "cupbord",
+        "price": 153.99,
+        "image": { "fields": { "file": { "url": "./images/product-11.jpg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "table",
+        "price": 83.99,
+        "image": { "fields": { "file": { "url": "./images/product-12.jpg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "cupbord",
+        "price": 233.99,
+        "image": { "fields": { "file": { "url": "./images/product-13.jpg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "14" },
+      "fields": {
+        "title": "table",
+        "price": 93.19,
+        "image": { "fields": { "file": { "url": "./images/product-14.jpg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "15" },
+      "fields": {
+        "title": "table",
+        "price": 73.99,
+        "image": { "fields": { "file": { "url": "./images/product-15.jpg" } } }
+      }
+    }
+    ,
+    {
+      "sys": { "id": "16" },
+      "fields": {
+        "title": "chair",
+        "price": 63.99,
+        "image": { "fields": { "file": { "url": "./images/product-16.jpg" } } }
+      }
+    }
+    
+  ]
+}

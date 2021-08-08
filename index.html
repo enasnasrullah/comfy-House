@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>e-commerce</title>
+    <!-- fontawsone -->
+    <link
+      rel="stylesheet"
+      href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+      integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
+      crossorigin="anonymous"
+    />
+
+    <!-- style -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- navbar -->
+    <nav class="navbar">
+      <div class="navbar-center">
+     
+        <img src="images/logo.svg" alt="logo" />
+
+        <div class="cart-btn">
+          <span class="nav-icon">
+            <i class="fas fa-cart-plus"></i>
+            <span class="cart-items">0</span>
+          </span>
+        </div>
+      </div>
+    </nav>
+    <!-- header -->
+    <header class="hero">
+      <div class="banner">
+        <h1 class="banner-title">furniture collection</h1>
+        <button class="banner-btn" ><a href="#products">Shop Now</a></button>
+      </div>
+    </header>
+
+    <!-- products -->
+
+    <section class="products" id="products">
+      <div class="section-title">
+        <h2>Our Products</h2>
+      </div>
+      <div class="products-center"></div>
+    </section>
+
+    <!-- cart -->
+    <div class="cart-overlay">
+      <div class="cart">
+        <span class="close-cart"> <i class="fas fa-window-close"></i></span>
+        <h2>Your Cart</h2>
+        <div class="cart-content">
+          <!-- <div class="cart-item">
+           
+          </div> -->
+
+          <div class="cart-footer">
+            <h3>Your total : $ <span class="cart-total">0</span></h3>
+            <button class="clear-cart banner-btn">Clear Cart</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <footer>
+      Copyright © 2021 Enas   
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
